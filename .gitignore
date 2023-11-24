@@ -1,0 +1,63 @@
+# Gecompileerde Java-klassen
+*.class
+
+# Package-bestanden
+*.jar
+*.war
+*.ear
+
+# Maven specifieke bestanden
+target/
+
+# Gradle specifieke bestanden
+build/
+
+# IDEA IntelliJ specifieke bestanden
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse specifieke bestanden
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans specifieke bestanden
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Visual Studio Code specifieke bestanden
+.vscode/
+
+# Verschillende IDEs en editors
+*.swp
+*.swo
+*~
+
+# Besturingssysteem specifieke bestanden
+.DS_Store
+Thumbs.db
+
+# Log bestanden en databases
+*.log
+*.sql
+*.sqlite
+
+# Systeem specifieke bestanden en mappen
+bin/
+temp/
+tmp/
+
+jdk-17.0.9_doc-all/
+*.pdf
+*.ppt
+*.pptx
+*.ppsx
