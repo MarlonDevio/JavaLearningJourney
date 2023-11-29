@@ -57,7 +57,7 @@ temp/
 tmp/
 
 jdk-17.0.9_doc-all/
-*.pdf
+
 *.ppt
 *.pptx
 *.ppsx
